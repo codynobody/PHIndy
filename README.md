@@ -1,2 +1,2 @@
-# phindy
-Python PHI/PII File Scanner
+# PHIndy
+Python PHI/PII Discovery File Scanner
